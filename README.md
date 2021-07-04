@@ -8,4 +8,4 @@ My name is Luiz Eduardo (@luizerl) and I'm...
 
 ### Want to contact me?
 - 📫 How to reach me: luizerl@hotmail.com
-- 💪 My portfolio is avaiable in [here](https://luizerl.github.io/) (🔧still in construction...)!
+- 💪 My portfolio is available [here](https://luizerl.github.io/) (🔧still in construction...)!
