@@ -9,3 +9,5 @@ My name is Luiz Eduardo (@luizerl) and I'm...
 ### Want to contact me?
 - 📫 How to reach me: luizerl@hotmail.com
 - 💪 My portfolio is available [here](https://luizerl.github.io/) (🔧still in construction...)!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizerl)](https://github.com/anuraghazra/github-readme-stats)
